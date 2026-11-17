@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title">
+  <title id="title">Garantia de trinta dias</title>
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0.35" y2="1">
+      <stop stop-color="#fff0a7"/>
+      <stop offset=".42" stop-color="#f4c64d"/>
+      <stop offset=".8" stop-color="#d99a16"/>
+      <stop offset="1" stop-color="#ad6c08"/>
+    </linearGradient>
+    <path id="top" d="M 43,105 A 80,80 0 0,1 197,105"/>
+    <path id="bottom" d="M 37,155 A 92,92 0 0,0 203,155"/>
+  </defs>
+  <circle cx="120" cy="120" r="112" fill="url(#gold)"/>
+  <circle cx="120" cy="120" r="104" fill="none" stroke="#b47a12" stroke-width="1.2"/>
+  <circle cx="120" cy="120" r="76" fill="#101110" stroke="#b5801e" stroke-width="4"/>
+  <g fill="#422c08" font-family="Arial, sans-serif" font-weight="700" text-anchor="middle">
+    <text font-size="20" letter-spacing="3"><textPath href="#top" startOffset="50%">GARANTIA</textPath></text>
+    <text font-size="16" letter-spacing="2"><textPath href="#bottom" startOffset="50%">TRINTA DIAS</textPath></text>
+    <text x="25" y="129" font-size="15">★</text>
+    <text x="215" y="129" font-size="15">★</text>
+  </g>
+  <g fill="url(#gold)" font-family="Arial, sans-serif" font-weight="900" text-anchor="middle">
+    <text x="120" y="85" font-size="14" letter-spacing="2">★★★★★</text>
+    <text x="120" y="143" font-size="66" letter-spacing="-3">30</text>
+    <text x="120" y="169" font-size="22" letter-spacing="4">DIAS</text>
+  </g>
+</svg>
